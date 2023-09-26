@@ -18,15 +18,15 @@ They follow a three step prompt to seamlesly create their cover letter.
 
 BONUS!! They can play a classic game of snake while waiting for the cover letter to generate
 
-![screenshot #3](./public/images/screenshot-3.png)
+![screenshot #3](./screenshot-3.png)
 
 Once the AI has generated the cover letter, users can refine the cover letter or simply copy and paste
 
-![screenshot #4](./public/images/screenshot-4.png)
+![screenshot #4](./screenshot-4.png)
 
 And thats it! A user has an AI Generated Cover Letter in seconds!
 
-![screenshot #4](./public/images/screenshot-5.png)
+![screenshot #4](./screenshot-5.png)
 
 
 ## Tech Stack
