@@ -10,11 +10,11 @@ https://swiftcover.ai/
 
 Users are prompted to create an AI generated cover letter.
 
-![screenshot #1](./public/images/screenshot-1.png)
+![screenshot #1](./screenshot-1.png)
 
 They follow a three step prompt to seamlesly create their cover letter.
 
-![screenshot #2](./public/images/screenshot-2.png)
+![screenshot #2](./screenshot-2.png)
 
 BONUS!! They can play a classic game of snake while waiting for the cover letter to generate
 
