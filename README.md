@@ -31,4 +31,4 @@ And thats it! A user has an AI Generated Cover Letter in seconds!
 
 
 ## Tech Stack
-Built on ReactJS and MUI, leveraging OpeanAI's GPT-4 Model. Firebase for authentication, cloud functions, and db. Stripe for payments
+Built on ReactJS and MUI, leveraging OpenAI's GPT-4 Model. Firebase for authentication, cloud functions, and db. Stripe for payments
