@@ -7,7 +7,7 @@ SwiftCover is a state of the art AI tool used to craft tailored cover letters th
 
 https://swiftcover.ai/
 
-## How  it works...
+## How  it works....
 
 Users are prompted to create an AI generated cover letter.
 
