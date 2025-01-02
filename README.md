@@ -2,7 +2,7 @@
 
 NOTE: This project is currently generating revenues and has thousands of users, therefore, to prevent malicious attacks and clones, I have made the repository private. If you would like access please get in contact with me directly.
 
-SwiftCover is a state of the art AI tool used to craft tailored cover letters that fit any job description within seconds. No more tedious editing and tweaking - let our AI do the work for you!
+SwiftCover is a state of the art AI tool used to craft tailored cover letters that fit any job description within seconds. No more tedious editing and tweaking - let our AI do the work for you.
 
 
 https://swiftcover.ai/
